@@ -10,3 +10,5 @@ print(full_name)
 address = "123 Main Street"
 address += ", Apartment 4B"
 print(address)
+
+employee_info = full_name + " is "
